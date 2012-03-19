@@ -57,5 +57,6 @@ Liste des étudiants ayant réussi ce TP
 * Tony TOP,
 * Xavier MAILLOT,
 * Zhiying GU,
-* Ayoub MOURAD.
+* Ayoub MOURAD,
+* Liu HE.
 
